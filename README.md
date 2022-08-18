@@ -1,11 +1,6 @@
 # filesharing
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
-Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
-
-##
-
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@helpforRYUU](https://www.telegram.dog/helpforRYUU)**
 
 ### Features
 - Sepenuhnya dapat dicustom.
@@ -20,9 +15,8 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 - Tambahkan bot ke Group ForceSub tambahkan bot sebagai ADMIN
 
 #
-## Installation
-### 𝗗𝗲𝗽𝗹𝗼𝘆 𝗼𝗻 𝗛𝗲𝗿𝗼𝗸𝘂
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Skyy112/filesharing)
+## deploy on heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xyzsky01/filesharing)
 
 
 ### Admin Commands
@@ -85,13 +79,11 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-[filesharing](https://github.com/Skyy112/filesharing/) is Free Software: You can use, study share and improve it at your
+[filesharing](https://github.com/xyzsky01/filesharing/) is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version. 
 
 ##
-
-   **Berikan Bintang Repo ini jika Anda menyukainya ⭐⭐⭐⭐⭐**
 
