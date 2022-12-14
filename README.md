@@ -73,7 +73,7 @@ Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link K
 - Shin - [Dev TRANS UBOT](https://t.me/RYUUSHINNI)
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
 - Thanks To [CodeXBotz](https://github.com/CodeXBotz/File-Sharing-Bot)
-- Thanks To [sky](https://github.com/lonely011/File-Sharing-Sky)
+- Thanks To [sky](https://github.com/lonely011)
 - Our Support Group Members
 
 ### Licence
