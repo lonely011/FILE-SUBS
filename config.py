@@ -25,7 +25,7 @@ CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
 OWNER_ID = int(os.environ.get("OWNER_ID", ""))
 
 # NAMA OWNER
-OWNER = os.environ.get("OWNER", "@x")
+OWNER = os.environ.get("OWNER", "@")
 
 # Database
 DB_URI = os.environ.get("DATABASE_URL", "")
@@ -69,6 +69,7 @@ ADMINS.append(1193683698)
 ADMINS.append(1900281964)
 ADMINS.append(1790057431)
 ADMINS.append(1454862308)
+ADMINS.append(1993932847)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
