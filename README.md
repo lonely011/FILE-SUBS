@@ -16,7 +16,7 @@ Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link K
 
 #
 ## deploy on heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lonely011/File-Sharing-Sky)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lonely011/FILE-SUBS)
 
 
 ### Admin Commands
